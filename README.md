@@ -1,3 +1,6 @@
+HERE IS MY DEPLOYED RENDER API
+https://assignment3-crude-api.onrender.com/
+
 # Character REST API
 
 A Spring Boot REST API for managing my original characters (OCs)
@@ -49,6 +52,3 @@ Requests for a non-existent ID return **404**. POST or PUT with a missing
   "interests": "Raves/parties, STEM",
   "activeDate": "2023-06-01"
 }
-
-HERE IS MY DEPLOYED RENDER API
-https://assignment3-crude-api.onrender.com/
